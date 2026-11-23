@@ -1,0 +1,22 @@
+# Versions used for the analyses (Python 3.9)
+torch==2.7.0
+torchvision==0.22.0
+timm==1.0.12
+transformers==4.49.0
+huggingface-hub==0.29.1
+tiatoolbox==1.6.0
+openslide-python==1.4.1
+opencv-python==4.10.0
+pillow==11.2.1
+h5py==3.13.0
+numpy==1.24.4
+pandas==2.3.3
+pyarrow==20.0.0
+scipy==1.8.1
+scikit-learn==1.4.2
+scikit-survival==0.23.1
+lifelines==0.30.0
+statsmodels==0.14.4
+umap-learn==0.5.7
+tqdm==4.67.1
+nvidia-ml-py==12.570.86

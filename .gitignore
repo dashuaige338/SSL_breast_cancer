@@ -1,0 +1,17 @@
+# Never commit data, results or credentials
+*.csv
+*.parquet
+*.pt
+*.h5
+*.pkl
+*.npz
+*.mrxs
+*.svs
+results/
+eval_results/
+splits/
+dataset_csv*/
+logs/
+__pycache__/
+*.pyc
+.env
